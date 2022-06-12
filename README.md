@@ -65,7 +65,7 @@
   <div class="bottom-container">
     <a class="footer-link" href="https://www.linkedin.com/in/harsh-dwivedi-854b39202">LinkedIn</a>
     <a class="footer-link" href="https://github.com/harsh746-exe">GitHub</a>
-    <a class="footer-link" href="https://harsh746-exe.github.io/mywebsite/">Website</a>
+    <a class="footer-link" href="https://harsh746-exe.github.io/CV/">Website</a>
     <p class="end">© 2022 Harsh Dwivedi.</p>
   </div>
 
